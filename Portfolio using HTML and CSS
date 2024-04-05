@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="em">
+<head>
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<link rel="stylesheet" href="style/style.css">
+<style>
+	.a{
+		text-decoration: none;
+		background-color: red;
+		margin-top: 120px;
+        color: white;
+	}
+	.b{
+		float: right;
+      
+	}
+    .e{
+        margin-left:100px;
+    }
+	.c{
+		margin-left: 700px;
+	}	
+    .d{
+        text-align: left;
+    }
+    .f{
+        text-decoration: none;
+		background-color: white;
+        margin-left: -90px;
+        color:red;
+    
+    }
+    .g{
+        text-decoration: none;
+		background-color: white;
+        margin-left: 80px;
+        color:red;
+    }
+
+</style>
+
+</head>
+<body>
+	<header>
+		<h1 class="e">Hi I'm Anshika</h1>
+	</header>
+	<table border="0"  width="50%"  bgcolor="red"  height="8%"> 		
+	<tr>
+        <th width="10%"><font     size="4"><a href="#About Me" class="a" > About Me</a></font></th>
+	    <th width="10%"><font     size="4"><a href="#Skills" class="a" > Skills</a></font></th>
+		<th width="10%"><font      size="4"><a href="#Projects"  class="a" > Projects</a></font></th>
+		<th width="10%"><font    size="4"><a href="#Achievements" class="a" >Achievements</a></font></th>
+	</tr>
+	</table>
+    <img  class="b" src="C:\Users\hp\OneDrive\Desktop\mobile photoes\New folder\New folder\IMG-20211008-WA0000.jpg"   width="200px" height="200px">
+    <h1><pre>    ABOUT ME</pre></h1> <a name="About Me" ></a><pre class="d"><font size="5px">
+    I am Anshika Khare student of 3rd year in CSE branch.I am a passionate learner 
+    and developer.I always want to explore new things .I am doing B.tech so that i
+    will able to learn about new technologies that are coming day - by - day. 
+    </font></pre>
+    <h1><pre>    Skills</pre></h1> <a name="Skills" ></a><pre class="d"><font size="5px">
+    I have a knoweledge of core java,web develpment(HTML,CSS and a few knoweledge of 
+    Javascript). And i am also passionate to learn many more new technologies</font>
+    </pre>
+    <h1><pre>    Projects</pre></h1><a name="Projects"></a>  <pre class="d"> <font size="5px">
+    I have made many mini projects and i am currently working on my final year project.
+    I have made <b>Snake Game </b>using Core Java,  i have also made a <b>   Ball Catching </b>
+    game using python.
+    </font>  </p>
+    </pre>
+    <h1> <pre>    Achievements</pre></h1> <a name="Achievements"></a><pre  class="d"><font size="5px">
+    I have achieved many things in my last 2 Years of Bachelor's Program. I have gained 
+    many certificates  few of them  are from workshopthat i have attended .I have also 
+    joined NSS and attended many events organised by NSS.I am also happy to receive many 
+    internship certificate.
+    </font>
+        </pre>
+    
+<table>
+    <tr>
+        <th width="10%"><font    size="6"> <a href="C:\Users\hp\OneDrive\Desktop\Resume.pdf" download="C:\Users\hp\OneDrive\Desktop\Resume.pdf" class="f" target="_parent" > Resume</a></font></th>
+        <th width="10%"><font    size="6" ><a href="A1.html" class="g"  target="_parent"> Contact</a></font></th>  
+    </tr>
+</table>
+
+</body>
+</html>
